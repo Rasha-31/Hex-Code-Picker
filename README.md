@@ -1,0 +1,1 @@
+The Hex Code Picker is a web application designed to help users easily select and copy hexadecimal color codes. This tool is particularly useful for web designers, developers, and anyone working with color schemes in their projects.
